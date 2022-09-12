@@ -8,3 +8,5 @@ print("hello india")
 print("python is amazing")
 
 print("rust is best")
+
+print("23:17")
