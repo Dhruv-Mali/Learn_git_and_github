@@ -1,0 +1,25 @@
+git init
+git add .
+git commit -m "msg"
+
+
+git log
+git checkout hashnumber => to view out prev commits
+
+
+git checkout -b branchname (create new branch  and move to that branch)
+git checkout branchname (change branch)
+
+git merge jay (merge jay branch with current branch)
+
+
+git remote add origin https://github.com/Dhruv-Mali/Learn_git_and_github.git
+git remote -v
+git branch -m main
+
+
+git push -u origin main (for first time)
+git push
+git pull
+
+git clone repourl
